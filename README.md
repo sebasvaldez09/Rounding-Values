@@ -12,4 +12,5 @@ Format the output to display the values in fixed format with two decimal digits.
 “For a price $”, P, “and “, X “% tax, the total cost of the product is $”, T where P, X, and T are the values corresponding to variables price, tax, and total respectively.
 
 Test:
-Enter the price and tax 
+Enter the price and tax (%) please: 100 8.25
+For a price $!00.00 and 8.25% tax, the total cost of the product is $108.30
